@@ -2,14 +2,7 @@
 title: "Regresión linear"
 author: "Alejandro Czernikier"
 date: "19/10/2024"
-output:
-   html_document:
-     toc: yes
-     code_folding: show
-     toc_float: yes
-     df_print: paged
-     theme: united
-     code_download: true
+output: github_document
 ---
 
 
